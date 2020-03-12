@@ -12,5 +12,31 @@
             "id": 3,
             "name": "Intro to Mobile Development"
         }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "dexter",
+            "course_id": 1,
+            "score": null
+        },
+        {
+            "id": 2,
+            "name": "nuel",
+            "course_id": 1,
+            "score": null
+        },
+        {
+            "id": 3,
+            "name": "john",
+            "course_id": 3,
+            "score": null
+        },
+        {
+            "id": 4,
+            "name": "doe",
+            "course_id": 1,
+            "score": null
+        }
     ]
 }
