@@ -1,0 +1,40 @@
+#header{
+    background-color: #254C71;
+    height: 27vh;
+}
+
+h5#title{
+    color: whitesmoke;
+    padding-top: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.xl4{
+    margin-top: 17px;
+}
+
+.card-panel{
+    border-radius: 12px !important;
+    padding: 15px !important;
+}
+
+.card-panel > *:first-child {
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.card-panel .total-students{
+    margin-top: 6px;
+    display: inline-block;
+    border-bottom: 1px solid rgb(206, 94, 94);
+}
+
+.course-name{
+    font-weight: bold;
+}
+
+#time{
+    margin-right: 3px;
+}
+

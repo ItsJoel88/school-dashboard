@@ -2,15 +2,21 @@
     "courses": [
         {
             "id": 1,
-            "name": "Front End Development"
+            "name": "Front End Development",
+            "description": "Learning the fundamental of how to be a front end developer in 2020",
+            "enroll_students": 3
         },
         {
             "id": 2,
-            "name": "Back End Development"
+            "name": "Back End Development",
+            "description": "Learning the fundamental of how to be a back end developer in 2020",
+            "enroll_students": 0
         },
         {
             "id": 3,
-            "name": "Intro to Mobile Development"
+            "name": "Intro to Mobile Development",
+            "description": "Learning the fundamental of the basic of mobile development in 2020",
+            "enroll_students": 1
         }
     ],
     "students": [
