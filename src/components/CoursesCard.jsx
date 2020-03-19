@@ -46,6 +46,7 @@ function CoursesCard() {
                                 <p className="total-students">
                                     {course.enroll_students} Students
                                 </p>
+                                <p>halo</p>
                             </CardPanel>
                         </Col>
                     ))

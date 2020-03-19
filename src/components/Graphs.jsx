@@ -64,7 +64,7 @@ const data2 = [
         name: 'March', uv: 1000, pv: 2800,
     },
     {
-        name: 'April', uv: 1780, pv: 2908,
+        name: 'April', uv: 1300, pv: 2908,
     },
     {
         name: 'May', uv: 1890, pv: 2800,
