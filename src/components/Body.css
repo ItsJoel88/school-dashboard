@@ -1,0 +1,45 @@
+#body{
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 100px;
+}
+
+#body > * {
+    margin: 6px 20px 6px 20px;
+}
+
+#list-students{
+    text-align: center;
+    width: 80%;
+    height: 50vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+#list-students h5{
+    font-weight: bold;
+}
+
+#list-students .collapsible{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 350px;
+    width: 350px;
+}
+
+#course-graphs{
+    margin-top: -10px;
+}
+
+.score-button{
+    font-size: 10px !important;
+    height: 22px !important;
+    padding: 0 5px !important;
+    line-height: normal !important;
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
