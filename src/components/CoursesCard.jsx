@@ -47,6 +47,7 @@ function CoursesCard() {
                                     {course.enroll_students} Students
                                 </p>
                                 <p>waduhhhh</p>
+                                <p>890999</p>
                             </CardPanel>
                         </Col>
                     ))
